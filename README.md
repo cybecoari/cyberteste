@@ -7,3 +7,4 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/kirito
 
 wget https://raw.githubusercontent.com/kiritosshxd/SSHPLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
 # cyberteste
+# cyberteste
